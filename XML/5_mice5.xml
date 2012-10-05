@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Alllabels>
+<video_name>mice5</video_name>
+<total_label>2</total_label>
+	<label>
+		<label_name>groom</label_name>
+		<start_time>23.29</start_time>
+		<end_time>73.907</end_time>
+	</label>
+	<label>
+		<label_name>micro-movement</label_name>
+		<start_time>0</start_time>
+		<end_time>122.508480725624</end_time>
+	</label>
+</Alllabels>

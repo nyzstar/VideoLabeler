@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Alllabels>
+<video_name>mice2</video_name>
+<total_label>3</total_label>
+	<label>
+		<label_name>drink</label_name>
+		<start_time>6.74</start_time>
+		<end_time>22.155</end_time>
+	</label>
+	<label>
+		<label_name>eat</label_name>
+		<start_time>8.976</start_time>
+		<end_time>17.784</end_time>
+	</label>
+	<label>
+		<label_name>micro-movement</label_name>
+		<start_time>0</start_time>
+		<end_time>39.7990022675737</end_time>
+	</label>
+</Alllabels>

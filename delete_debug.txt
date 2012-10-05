@@ -1,0 +1,1 @@
+DELETE FROM labels WHERE video_id = 5 AND label_id = 202

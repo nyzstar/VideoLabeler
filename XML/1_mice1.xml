@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Alllabels>
+<video_name>mice1</video_name>
+<total_label>6</total_label>
+	<label>
+		<label_name>drink</label_name>
+		<start_time>17.939</start_time>
+		<end_time>46.85</end_time>
+	</label>
+	<label>
+		<label_name>drink</label_name>
+		<start_time>19.316</start_time>
+		<end_time>48.227</end_time>
+	</label>
+	<label>
+		<label_name>groom</label_name>
+		<start_time>13.809</start_time>
+		<end_time>48.227</end_time>
+	</label>
+	<label>
+		<label_name>micro-movement</label_name>
+		<start_time>13.809</start_time>
+		<end_time>45.474</end_time>
+	</label>
+	<label>
+		<label_name>micro-movement</label_name>
+		<start_time>20.693</start_time>
+		<end_time>44.097</end_time>
+	</label>
+	<label>
+		<label_name>walk</label_name>
+		<start_time>8.302</start_time>
+		<end_time>41.343</end_time>
+	</label>
+</Alllabels>

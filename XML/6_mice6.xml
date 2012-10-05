@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Alllabels>
+<video_name>mice6</video_name>
+<total_label>3</total_label>
+	<label>
+		<label_name>micro-movement</label_name>
+		<start_time>0</start_time>
+		<end_time>155.039637188209</end_time>
+	</label>
+	<label>
+		<label_name>micro-movement</label_name>
+		<start_time>28.762</start_time>
+		<end_time>91.225</end_time>
+	</label>
+	<label>
+		<label_name>walk</label_name>
+		<start_time>28.762</start_time>
+		<end_time>128.695</end_time>
+	</label>
+</Alllabels>
